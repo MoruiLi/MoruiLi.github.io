@@ -1,5 +1,5 @@
     /*==========================================================================================================================
-    TEST--EO-Hub.js
+    TESTEditRealTime--EO-Hub.js
     called from Template
     
     REVISION HISTORY:
