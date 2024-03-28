@@ -1,5 +1,5 @@
     /*==========================================================================================================================
-    EO-Hub.js
+    TEST--EO-Hub.js
     called from Template
     
     REVISION HISTORY:
@@ -463,7 +463,7 @@
     googleAnalytics()
     retrieve data about current user and save in local storage
     *==============================================================================*/
-    function googleAnalytics() {
+ /*   function googleAnalytics() {
         const debugMode = false;
         const _user = JSON.parse(localStorage.getItem("eoWebUser"));
 
@@ -485,7 +485,7 @@
             });
         } else {
             gtag('config', 'G-MBQNV60Y14');
-        }
+        } */
         //old method
         /* new method adding additional demographics
         if (_user.Chapter.length > 0){
